@@ -3,7 +3,7 @@
   <img src="docs/imgg/logo.png" alt="UruBots Logo" width="250"/>
 </p>
 
-<h1 align="center">🤖 UruBots - RoboCup 2026 @Work</h1>
+<h1 align="center"> UruBots - RoboCup 2026 @Work</h1>
 
 <p align="center">
   <b>Developing a mobile manipulator for RoboCup 2026 – Incheon</b><br/>
@@ -12,12 +12,6 @@
 
 ---
 
-<p align="center">
-  <!-- Logos lado a lado -->
-  <img src="https://global.agilex.ai/cdn/shop/products/LIMO.png" alt="LIMO" width="150"/>
-  <img src="https://www.hokuyo-aut.jp/02sensor/07scanner/img/ust-10lx_02.jpg" alt="Hokuyo LiDAR" width="150"/>
-  <img src="https://emanual.robotis.com/assets/images/platform/openmanipulator_x/main.png" alt="OpenManipulator" width="150"/>
-</p>
 
 ---
 
@@ -33,7 +27,8 @@ Our mission is to build a fully autonomous mobile manipulator capable of perform
 
 ## 🖥️ Software Stack
 - **ROS 2 Humble**  
-- **Navigation2 (Nav2)**    
+- **Navigation2 (Nav2)**  
+- **MoveIt2** for manipulation  
 - Custom ROS 2 packages for navigation, perception, and manipulation  
 
 ---
