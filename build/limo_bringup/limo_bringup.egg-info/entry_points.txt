@@ -1,0 +1,2 @@
+[console_scripts]
+map_saver_listener = limo_bringup.scripts.map_saver_listener:main
